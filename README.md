@@ -8,9 +8,6 @@ Designed to demonstrate tokenization, scaled dot-product multi-head causal self-
 
 ## 🏗️ Architecture Breakdown
 
-### Attention Is All You Need Paper Style Diagram
-![Attention Is All You Need Paper Diagram](transformer_paper_diagram.png)
-
 ### Model Flow Diagram
 ![NanoDecoder Architecture Diagram](architecture_diagram.png)
 
